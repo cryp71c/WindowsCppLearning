@@ -21,7 +21,7 @@ The provided code performs the following tasks:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/CppWinAPIInterface.git
+    git clone https://github.com/cryp71c/WindowsCppLearning.git
     ```
 
 2. **Compile the Code**:
